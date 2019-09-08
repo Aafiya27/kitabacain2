@@ -1,0 +1,38 @@
+{
+  "name": "KitaBacaIn",
+  "short_name": "KitaBacaInIcon",
+  "start_url": "https://www.kitabaca.in/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Portal Inpsirasi, Opini, Artikel, dab Belajar Ngeblog",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-Mxj1CfPRwlY/XXR05Mis9qI/AAAAAAAACRU/_2jQ1Fr7xEAAe0LtynBeof1RsuCv35HNACLcBGAs/s48/KITABACA1.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Mxj1CfPRwlY/XXR05Mis9qI/AAAAAAAACRU/_2jQ1Fr7xEAAe0LtynBeof1RsuCv35HNACLcBGAs/s72/KITABACA1.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Mxj1CfPRwlY/XXR05Mis9qI/AAAAAAAACRU/_2jQ1Fr7xEAAe0LtynBeof1RsuCv35HNACLcBGAs/s96/KITABACA1.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Mxj1CfPRwlY/XXR05Mis9qI/AAAAAAAACRU/_2jQ1Fr7xEAAe0LtynBeof1RsuCv35HNACLcBGAs/s144/KITABACA1.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Mxj1CfPRwlY/XXR05Mis9qI/AAAAAAAACRU/_2jQ1Fr7xEAAe0LtynBeof1RsuCv35HNACLcBGAs/s168/KITABACA1.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Mxj1CfPRwlY/XXR05Mis9qI/AAAAAAAACRU/_2jQ1Fr7xEAAe0LtynBeof1RsuCv35HNACLcBGAs/s192/KITABACA1.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Mxj1CfPRwlY/XXR05Mis9qI/AAAAAAAACRU/_2jQ1Fr7xEAAe0LtynBeof1RsuCv35HNACLcBGAs/s512/KITABACA1.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
